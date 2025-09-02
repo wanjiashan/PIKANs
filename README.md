@@ -67,10 +67,7 @@ provides a detailed comparison of loss trends with increasing epochs under diffe
 We design a model with linear time ${\cal O}\left( n \right)$ complexity, which not only improves prediction accuracy but also effectively shortens inference time, reduces computational costs, and enhances the model's practicality and scalability.
 
 ## 2. Related work
-### (1) Datasets
-<div align="center">
-  <img src="imgs/4.png" alt="Example Image" width="500" />
-</div>
+
 The core of early warning of open-pit mine-slope failure lies in acquiring 87
 key information by monitoring surface displacements to predict the precise lo- 88
 cation, area, and timing of landslides (Wang et al., 2024b). Surface-deformation 89
@@ -92,9 +89,8 @@ to surveillance of mining operations (Ding et al., 2024), bridges (Wang et al., 
 
 ## 3.Problem denition
 <div align="center">
-  <img src="imgs/5.png" alt="Example Image" width="500" />
+  <img src="imgs/4.png" alt="Example Image" width="500" />
 </div>
-
 andslide events typically progress through a three-stage evolution from ini- 194
 tial deformation to eventual failure: the initial deformation stage, the constant- 195
 rate deformation stage, and the accelerating deformation stage (FUKUZONO, 196
