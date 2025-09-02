@@ -1,10 +1,10 @@
 ## PIKANs: Physics-Informed Kolmogorov-Arnold Networks for Landslide Time-to-Failure Prediction
 
-lope deformation is characterized by pronounced time variability and com￾plexity. Although ground-based synthetic aperture radar (GB-SAR) provides
+lope deformation is characterized by pronounced time variability and complexity. Although ground-based synthetic aperture radar (GB-SAR) provides
 high-frequency, broad monitoring, its strong oscillations and large fluctuations
 can impair predictive performance. To address this, the raw displacement se￾quence is first smoothed via misaligned subtraction to suppress high-frequency
 noise and highlight key deformation trends. A dynamic confidence boundary
-is then established on the inverse-velocity curve to robustly identify the ac￾celeration start point. Subsequently, physics-informed Kolmogorov-Arnold net￾works (PIKANs) are formulated to embed the displacement-time evolution equa￾tion into the basis-function space of the Kolmogorov-Arnold network (KAN),
+is then established on the inverse-velocity curve to robustly identify the ac￾celeration start point. Subsequently, physics-informed Kolmogorov-Arnold net￾works (PIKANs) are formulated to embed the displacement-time evolution equation into the basis-function space of the Kolmogorov-Arnold network (KAN),
 thereby unifying nonlinear deformation dynamics with the governing physical
 laws of landslide motion. During model training, an alternating optimization
 scheme combining Adam and the L-BFGS algorithm accelerates convergence
