@@ -27,7 +27,7 @@ physics-informed neural network, Kolmogorov-Arnold networks
 </div>
 
 <div align="center">
-  <img src="imgs/2-3.png" alt="Example Image" width="500" />
+  <img src="imgs/2.png" alt="Example Image" width="500" />
 </div>
 
 
