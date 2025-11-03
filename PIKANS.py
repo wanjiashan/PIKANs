@@ -119,6 +119,14 @@ class PIKANModel(nn.Module):
                 nn.GELU(),
                 KANLayer(hidden, 2, num_basis=kan_basis, residual=False),
             )
+        elif self.arch == "mlp-kan":
+            self.net = nn.Sequential(
+                nn.Linear(self.in_dim, hidden),
+                nn.GELU(),
+                nn.Linear(hidden, hidden),
+                nn.GELU(),
+                KANLayer(hidden, 2, num_basis=kan_basis, residual=False),
+            )
         else:
             raise ValueError(f"Unknown arch: {arch}")
 
