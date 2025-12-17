@@ -6,8 +6,7 @@ This repository includes four open-pit mine slope monitoring datasets. Each entr
 
 **1) Dexing Open-Pit Copper Mine Landslide (Jiangxi, China)**
 
-- **Location:** Dexing City, Jiangxi Province, China  
-    (E 117°37′00″ – 117°48′00″, N 28°59′00″ – 29°05′00″)
+- **Location:** Dexing City, Jiangxi Province, China(E 117°37′00″ – 117°48′00″, N 28°59′00″ – 29°05′00″)
 - **Pit extents:** 6.6 km (E–W) × 2.2 km (N–S), max depth 420 m; bench height 9–32 m; slope angle 45°–75°
 - **Event:** north-slope landslide on 2018-05-05 (~1.5×10⁴ m³)
 - **Monitoring:** GB-SAR deployed during the event; **sampling** every 7 min from 2018-05-04 14:24 to 2018-05-05 14:54 (210 epochs)
@@ -23,8 +22,7 @@ This repository includes four open-pit mine slope monitoring datasets. Each entr
 
 **3) Baijialiang Open-Pit Coal Mine (Ordos, Inner Mongolia, China)**
 
-- **Location:** Nalin Taohai Town, Yijinhuoluo Banner, Ordos, Inner Mongolia, China  
-    (E 110°14′14″ – 110°15′07″, N 39°31′34″ – 39°31′53″)
+- **Location:** Nalin Taohai Town, Yijinhuoluo Banner, Ordos, Inner Mongolia, China(E 110°14′14″ – 110°15′07″, N 39°31′34″ – 39°31′53″)
 - **Pit extents (Dec 2024 UAV survey):** length 2.1 km, width 0.5 km, depth 70 m, area 0.66 km²
 - **Bench / slope:** single bench height 8–10 m; overall slope angle 11°–34°
 - **Monitoring:** GB-SAR real-time monitoring deployed; **coverage** ≈ 0.42 km²
@@ -32,8 +30,7 @@ This repository includes four open-pit mine slope monitoring datasets. Each entr
 
 **4) Hongjingta Open-Pit Coal Mine (Ordos, Inner Mongolia, China)**
 
-- **Location:** Narison Town, Jungar Banner, Ordos, Inner Mongolia, China  
-    (E 110°33′13″ – 110°33′55″, N 39°28′12″ – 39°29′00″)
+- **Location:** Narison Town, Jungar Banner, Ordos, Inner Mongolia, China(E 110°33′13″ – 110°33′55″, N 39°28′12″ – 39°29′00″)
 - **Pit extents (Dec 2024 UAV survey):** length 2.5 km, width 1.7 km, depth 130 m, area 2.63 km²
 - **Bench / slope:** single bench height 9–15 m; overall slope angle 17°–49°
 - **Monitoring:** GB-SAR real-time monitoring on the north sector; **coverage** ≈ 0.67 km²
@@ -47,6 +44,6 @@ This repository includes four open-pit mine slope monitoring datasets. Each entr
 
 **Citation**
 
-If you use these datasets, please cite the accompanying manuscript and this repository. Example:
+To request the data, please contact us. Use of these datasets requires citation of the accompanying manuscript and this repository. Example:
 
-“This work uses GB-SAR and SBAS datasets from the Baijialiang, Hongjingta, Dexing, and Xinjing open-pit mines (HFUT-OP360 Datasets).
+"This work uses GB-SAR and SBAS datasets from the Baijialiang, Hongjingta, Dexing, and Xinjing open-pit mines (HFUT-OP360 Datasets)."
